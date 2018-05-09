@@ -1,0 +1,10 @@
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
