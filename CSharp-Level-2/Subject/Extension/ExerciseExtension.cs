@@ -10,10 +10,7 @@ namespace CSharp_Level_2.Subject.Extension
     {
         public void Test()
         {
-
             decimal i = 7;
-
-
             Console.WriteLine(i.Multiply(2));
 
         }

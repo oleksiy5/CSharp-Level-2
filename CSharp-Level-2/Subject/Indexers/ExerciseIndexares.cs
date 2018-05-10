@@ -8,6 +8,12 @@ namespace CSharp_Level_2.Subject.Indexers
 {
     class ExerciseIndexares
     {
+        public void Test()
+        {
+            var game = new FamousGame();
+            for (int i = 1; i <= game.Count; i++)
+                Console.WriteLine(game[i]);
+        }
     }
 
     class FamousGame

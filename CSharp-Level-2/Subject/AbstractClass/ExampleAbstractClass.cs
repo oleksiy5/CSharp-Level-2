@@ -8,15 +8,9 @@ namespace CSharp_Level_2.Subject.AbstractClass
 {
     class ExampleAbstractClass
     {
-        void Test()
+        public void Test()
         {
-
             MobilePhone mobile = new MobilePhone();
-
-           // int version = mobile.GetVersion();
-
-            
-
         }
     }
 

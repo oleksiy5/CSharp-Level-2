@@ -8,7 +8,7 @@ namespace CSharp_Level_2.Subject.GUID
 {
     class ExerciseGuid
     {
-        void Test()
+        public void Test()
         {
             Guid guid1 = Guid.NewGuid();
             byte[] buff = guid1.ToByteArray();

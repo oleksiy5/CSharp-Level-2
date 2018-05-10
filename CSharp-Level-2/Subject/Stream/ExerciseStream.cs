@@ -10,7 +10,6 @@ namespace CSharp_Level_2.Subject.Stream
     {
         public void Test()
         {
-
             byte[] buff = null;
             using (FileStream fs = new FileStream(
                 @"C:\my_file\olo.txt", FileMode.Open, FileAccess.Read))

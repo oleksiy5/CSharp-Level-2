@@ -1,7 +1,6 @@
 C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\CSharp-Level-2\bin\Debug\CSharp-Level-2.exe.config
 C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\CSharp-Level-2\bin\Debug\CSharp-Level-2.exe
 C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\CSharp-Level-2\bin\Debug\CSharp-Level-2.pdb
-C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\CSharp-Level-2\obj\Debug\CSharp-Level-2.csprojResolveAssemblyReference.cache
 C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\CSharp-Level-2\obj\Debug\CSharp-Level-2.csproj.CoreCompileInputs.cache
 C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\CSharp-Level-2\obj\Debug\CSharp-Level-2.exe
 C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\MidleLevelVideo\VSCode\CSharp-Level-2\CSharp-Level-2\obj\Debug\CSharp-Level-2.pdb

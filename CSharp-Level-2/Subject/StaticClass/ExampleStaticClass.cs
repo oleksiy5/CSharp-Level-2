@@ -8,7 +8,23 @@ namespace CSharp_Level_2.Subject.StaticClass
 {
     class ExampleStaticClass
     {
+        public void Test()
+        {
+            var book1 = new Book()
+            {
+                Title = "Title 1",
+                Price = 100
+            };
 
+            var book2 = new Book()
+            {
+                Title = "Title 2",
+                Price = 100
+            };
+
+            Console.WriteLine(BookComparer.IsBookTitleEqual(book1, book2));
+            Console.WriteLine(BookComparer.IsBookPriceEqual(book1, book2));
+        }
     }
 
     class Book
